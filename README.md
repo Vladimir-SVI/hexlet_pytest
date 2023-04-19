@@ -1,1 +1,1 @@
-[![Github Actions Status](https://github.com/Vladimir-SVI/hexlet_pytest/workflows/Python%20CI/badge.svg)](https://github.com/Vladimir-SVI/hexlet_pytest/actions)
+[![Github Actions Status](https://github.com/Vladimir-SVI/hexlet_pytest/workflows/learn-github-actions.yml/badge.svg)](https://github.com/Vladimir-SVI/hexlet_pytest/actions)
